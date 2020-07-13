@@ -9,3 +9,5 @@ Si ves que algo que publico te sirve, regalarme un cafecito ☕️  como muestra
 Saludos!
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/aioigzo)
+
+* Si, mi avatar era mi gata se llamaba Michelle (Como la cancion de The Beatles).
