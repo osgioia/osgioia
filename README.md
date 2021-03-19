@@ -8,8 +8,6 @@ Si ves que algo que publico te sirve, regalarme un cafecito ☕️  como muestra
 
 Saludos!
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/aioigzo)
-
 [![osgioia's github stats](https://github-readme-stats.vercel.app/api?username=osgioia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![osgioia's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=osgioia&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
